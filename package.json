@@ -1,0 +1,7 @@
+{
+  "name": "elm-graphql-test",
+  "version": "1.0.0",
+  "scripts": {
+    "api": "elm-graphql https://api.github.com/graphql --base Github --header 'Authorization: Bearer <Personal Access Token here>'"
+  }
+}
